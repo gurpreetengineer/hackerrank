@@ -5,10 +5,6 @@
 # 1 4 6 4 1
 # 1 5 10 10 5 1
 
-from asyncore import loop
-from turtle import back
-
-
 def pascalsTriangle(user_input):
   # i, j
   backup_one = [1]
